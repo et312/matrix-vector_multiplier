@@ -18,6 +18,6 @@ The control signals within the design are managed by a central FSM, which manage
 
 Below is a schematic of the top-level design of the MVM module:
 
-![](assets/20250729_161033_MVM_schematic.jpg)
+![](MVM_schematic.jpg)
 
 Credit: Andrew Boutros, Maran Ma
